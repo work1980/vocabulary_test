@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# Vocabulary test for middle shool in China
 
-A simple Streamlit app template for you to modify!
+It contains 3200 English words and the Chinese translation
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 

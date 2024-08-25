@@ -52,9 +52,10 @@ if st.session_state['current_question'] is None:
 
 # Streamlit app
 st.title('初中英语单词测验3200词汇版')
+st.write('by rh_work, rh.work@gmail.com')
 
 # Show the current word and options
-st.write(f"选择正确的中文翻译: **{st.session_state['current_question']}**?")
+st.write(f"### 选择正确的中文翻译: **{st.session_state['current_question']}**?")
 
 # Checkbox list for options
 selected_option = None
